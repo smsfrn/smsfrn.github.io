@@ -13,7 +13,7 @@ name                     : &name "Sam Safran"
 description              : &description "PhD candidate, University of Minnesota, <ul> <li><a style="color: black;" href="https://fwcb.cfans.umn.edu/">Department of Fisherise, Wildlife, & Conservation Biology</a></li> <br><br> Environmental scientist, <ul> <li><a style="color: black;" href="https://sfei.org/">San Francisco Estuary Institute</a></li>"
 url                      : https://smsfrn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "smsfrn/smsfrn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
