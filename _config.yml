@@ -83,7 +83,7 @@ author:
   name             : "Samuel M. Safran"
   avatar           : "profile.png"
   #bio              : "PhD candidate, University of Minnesota, Department of Fisherise, Wildlife, & Conservation Biology <br><br> Environmental scientist, San Francisco Estuary Institute"
-   bio              : "PhD candidate, <a style='color: black;' href='http://fwcb.cfans.umn.edu/'>University of Minnesota</a> <br><br> Environmental scientist, <a style='color: black;' href='http://sfei.org/'>San Francisco Estuary Institute</a>"
+  bio              : "PhD candidate, <a style='color: black;' href='http://fwcb.cfans.umn.edu/'>University of Minnesota</a> <br><br> Environmental scientist, <a style='color: black;' href='http://sfei.org/'>San Francisco Estuary Institute</a>"
   location         : 
   employer         :
   pubmed           : 
