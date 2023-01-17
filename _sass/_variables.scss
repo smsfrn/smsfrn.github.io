@@ -8,8 +8,7 @@
 
 $doc-font-size              : 16;
 
-$control-font                  : et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-//$control-font                  : Lora, Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$control-font               : -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto",Oxygen,Ubuntu,Cantarell,open sans,"Helvetica Neue",sans-serif //Lora, Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
