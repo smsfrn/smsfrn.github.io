@@ -1,13 +1,12 @@
 ---
-layout: archive
 title: "CV"
+layout: archive
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: yes
+redirect_from: /resume
 ---
 
-{% include base_path %}
+<iframe src="https://drive.google.com/file/d/1Cx3utLNQ-aKq0GGIRDCym0B7EbHtFf9D/view?usp=sharing" style="width: 100%; height: 500px; border: none;"></iframe>
 
 Education
 ======
