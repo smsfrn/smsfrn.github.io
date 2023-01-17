@@ -15,3 +15,5 @@ redirect_from: /resume
 </object> 
 
 <embed src="https://drive.google.com/file/d/1Cx3utLNQ-aKq0GGIRDCym0B7EbHtFf9D/preview?usp=drivesdk" width="500" height="600px"/>
+
+<iframe src="https://drive.google.com/file/d/1Cx3utLNQ-aKq0GGIRDCym0B7EbHtFf9D/preview" width="500" height="600" allow="autoplay"></iframe>
