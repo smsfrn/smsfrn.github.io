@@ -8,27 +8,25 @@
 
 $doc-font-size              : 16;
 
-$control-font               : -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", sans-serif; //Lora, Montserrat, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : $control-font, Georgia, Times, serif;
-$sans-serif                 : $control-font, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : $control-font, Monaco, Consolas, "Lucida Console", monospace;
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; //$control-font, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
-$sans-serif-narrow          : $control-font, $sans-serif;
-$helvetica                  : $control-font, Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : $sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : $control-font, Georgia, serif;
-$times                      : $control-font, Times, serif;
-$bodoni                     : $control-font, "Bodoni MT", serif;
-$calisto                    : $control-font, "Calisto MT", serif;
-$garamond                   : $control-font, Garamond, serif;
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
