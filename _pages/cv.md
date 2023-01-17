@@ -8,6 +8,8 @@ redirect_from: /resume
 
 <iframe src="https://drive.google.com/file/d/1Cx3utLNQ-aKq0GGIRDCym0B7EbHtFf9D/view?usp=sharing" style="width: 100%; height: 500px; border: none;"></iframe>
 
+<embed src="{{ site.baseurl }}/files/Safran_cv.pdf" width="600" height="700" type='application/pdf'> 
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
