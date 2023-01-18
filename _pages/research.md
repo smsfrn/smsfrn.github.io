@@ -11,7 +11,7 @@ redirect_from:
 
 ## Understanding species persistence & extinction in cities
 <figure>
-  <img.half src="/images/LA_building_cover_anim_basemap_1880.gif" align="center" />
+  <img src="/images/LA_building_cover_anim_basemap_1880.gif" align="center" style="width:50%"/>
 </figure>
 
 
