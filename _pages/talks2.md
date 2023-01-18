@@ -27,3 +27,9 @@ Occasionally I remember to record the talks I give. Here they are!
 **Translating science-based restoration strategies into spatially-explicit restoration opportunities**  
 *Bay-Delta Science Conference, Sacramento California*  
 <iframe src="https://drive.google.com/file/d/1HCjS24jJr5qcf9GeiOAqUkWcEfyXNJ7B/preview" width="640" height="480" allow="autoplay"></iframe>  
+
+{% include button.html button_name="My1 Button" button_class="outline-primary" url="google.com" %}
+
+<button onclick="window.location.href='https://bing.com';">Click</button>  
+
+<form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
