@@ -28,4 +28,5 @@ Occasionally I remember to record the talks I give. Here they are!
 *Bay-Delta Science Conference, Sacramento California*  
 <iframe src="https://drive.google.com/file/d/1HCjS24jJr5qcf9GeiOAqUkWcEfyXNJ7B/preview" width="640" height="480" allow="autoplay"></iframe>  
 
-<button type="button" class="btn btn-outline-info">Info</button>
+<button type="button" class="btn-info">Info</button>
+<button type="button" class="btn btn-info">Info</button>
