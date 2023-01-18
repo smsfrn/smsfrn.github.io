@@ -21,11 +21,9 @@ Occasionally I remember to record the talks I give. Here they are!
 2018-12-12  
 **The historical ecology of the Tijuana Estuary & River Valley**  
 *Restore America's Estuaries, Long Beach, California*  
-<iframe src="https://drive.google.com/file/d/1BtJYkuLoWEMlz00dXuVZYOZbtq1_V1-T/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1BtJYkuLoWEMlz00dXuVZYOZbtq1_V1-T/preview" width="640" height="480" allow="autoplay"></iframe>  
 
 2018-9-10  
 **Translating science-based restoration strategies into spatially-explicit restoration opportunities**  
 *Bay-Delta Science Conference, Sacramento California*  
-<iframe src="https://drive.google.com/file/d/1HCjS24jJr5qcf9GeiOAqUkWcEfyXNJ7B/preview" width="640" height="480" allow="autoplay"></iframe>
-
-{% include button.html url="http://www.google.com" %}
+<iframe src="https://drive.google.com/file/d/1HCjS24jJr5qcf9GeiOAqUkWcEfyXNJ7B/preview" width="640" height="480" allow="autoplay"></iframe>  
