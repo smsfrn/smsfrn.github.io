@@ -16,13 +16,11 @@ redirect_from:
 
 
 ## Urban animal reintroductions
-  * Iknayan, Wheeler, **Safran,** et al. 2021.[What makes urban parks good for California quail? Evaluating park suitability, species persistence, and the potential for reintroduction into a large urban national park.](https://doi.org/10.1111/1365-2664.14045) *Journal of Applied Ecology*.
+  * Iknayan, Wheeler, **Safran,** et al. 2021. [What makes urban parks good for California quail? Evaluating park suitability, species persistence, and the potential for reintroduction into a large urban national park.](https://doi.org/10.1111/1365-2664.14045) *Journal of Applied Ecology*.
 {: .notice}
 <figure>
   <img src="/images/quail_abstract.jpg" align="center" style="width:95%" />
 </figure>
-
-Kelly J. Iknayan, Megan M. Wheeler, Samuel M. Safran
 
 ## Quantifying functional changes in ecosystems at landscape scales
 
