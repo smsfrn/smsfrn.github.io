@@ -30,6 +30,3 @@ Occasionally I remember to record the talks I give. Here they are!
 <button type="button" class="btn-info">Info</button>
 <button type="button" class="btn btn-info">Info</button>
 
-<a href="{{ https://google.com }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-
-<a href="https://google.com"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
