@@ -121,8 +121,7 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
-  (linkedin, $linkedin-color),
-  (mastodon, $mastodon-color);
+  (linkedin, $linkedin-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
@@ -159,8 +158,9 @@
   
   &--research {
     display: inline-block;
+    font-size: $type-size-7;
     margin-bottom: 0.25em;
-    padding: 0.125em 0.25em;
+    padding: 0.025em 0.125em;
     color: $link-color;
     text-align: center;
     text-decoration: none !important;

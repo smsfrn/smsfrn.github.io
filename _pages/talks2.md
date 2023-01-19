@@ -3,8 +3,6 @@ layout: archive
 title: "Talks"
 permalink: /talks2/
 author_profile: true
-redirect_from:
-  - /talks2
 ---
 
 ## Recorded talks
@@ -12,7 +10,7 @@ redirect_from:
 Occasionally I remember to record the talks I give. Here they are!
 
 2022-06-30  
-**Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds** [DOI]("https://doi.org/10.5281/zenodo.7059491"){: .btn--info--small}
+**Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds** [DOI]("https://doi.org/10.5281/zenodo.7059491"){: .btn--research}  
 *American Ornithological Society & BirdsCaribbean, San Juan, Puerto Rico*  
 <iframe src="https://drive.google.com/file/d/17wn1oFZ4TNNZkaj2Xmyz39pND1os8C6S/preview" width="640" height="480" allow="autoplay"></iframe>  
 
