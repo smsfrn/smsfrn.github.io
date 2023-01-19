@@ -12,7 +12,7 @@ redirect_from:
 Occasionally I remember to record the talks I give. Here they are!
 
 2022-06-30  
-**Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds** {% include button.html button_name="DOI" button_class="btn btn-info btn-sm" url="(https://doi.org/10.5281/zenodo.7059491" %}  
+**Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds** [DOI]("https://doi.org/10.5281/zenodo.7059491"){: .btn--info--small}
 *American Ornithological Society & BirdsCaribbean, San Juan, Puerto Rico*  
 <iframe src="https://drive.google.com/file/d/17wn1oFZ4TNNZkaj2Xmyz39pND1os8C6S/preview" width="640" height="480" allow="autoplay"></iframe>  
 
@@ -26,6 +26,10 @@ Occasionally I remember to record the talks I give. Here they are!
 *Bay-Delta Science Conference, Sacramento California*  
 <iframe src="https://drive.google.com/file/d/1HCjS24jJr5qcf9GeiOAqUkWcEfyXNJ7B/preview" width="640" height="480" allow="autoplay"></iframe>  
 
-<button type="button" onclick="window.location='https://google.com'" class="btn" active>Info</button>
+<button type="button" onclick="https://google.com" class="btn" active>Info</button>
 <button type="button" class="btn-info">Info</button>
 <button type="button" class="btn btn-info">Info</button>
+
+<a href="{{ https://google.com }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+
+<a href="https://google.com"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
