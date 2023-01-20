@@ -5,7 +5,7 @@ permalink: /recorded_talks/
 author_profile: true
 ---
 
-Occasionally I remember to record the talks I give for posterity. (For a list of all talks, please see my CV.)
+Occasionally I remember to record the talks I give. For a full list of all talks, please see my CV.
 
 ---
 
