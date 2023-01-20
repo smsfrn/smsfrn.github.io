@@ -156,12 +156,12 @@
   
   /* research page buttons */
   
-  &--research {
+  &--doi {
     display: inline-block;
     font-size: $type-size-7;
     margin-bottom: 0.25em;
-    padding: 0.025em 0.125em;
-    color: $link-color;
+    padding: 0.02em 0.4em;
+    color: $link-color !important;
     text-align: center;
     text-decoration: none !important;
     border: 1px solid;
@@ -170,8 +170,9 @@
     cursor: pointer;
 
     &:hover {
-      color: #fff;
+      color: #fff !important;
       background-color: $link-color !important;
+
     }
   }
   
