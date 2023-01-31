@@ -191,7 +191,7 @@ figure {
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: .025em;
   }
 
   img {
@@ -230,6 +230,7 @@ figure {
       width: 100%;
     }
   }
+  
 }
 
 /* Figure captions */
