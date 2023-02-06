@@ -12,9 +12,9 @@ I am a PhD candidate in the [Blair Lab](https://sites.google.com/umn.edu/blairla
 
 <div id="pictures" align="center">
     <img src="/images/heth.JPG" style="width:48%; margin: 0em 0.1em 0em 0em;">
-    <img src="/images/ggb_geese_birders.JPG" style="width:48%; margin: 0em 0em 0em 0em;">
+    <img src="/images/powderhorn_winter.JPG" style="width:48%; margin: 0em 0em 0em 0em;">
 </div> 
 <div id="pictures" align="center">
-    <img src="/images/powderhorn_winter.JPG" style="width:48%; margin: 0.35em 0.1em 0em 0em;">
+        <img src="/images/ggb_geese_birders.JPG" style="width:48%; margin: 0.35em 0.1em 0em 0em;">
     <img src="/images/santiago.JPG" style="width:48%; margin: 0.35em 0em 0em 0em;">
 </div>
