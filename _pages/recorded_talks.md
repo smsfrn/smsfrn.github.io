@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Recorded talks"
 permalink: /recorded_talks/
 author_profile: true
