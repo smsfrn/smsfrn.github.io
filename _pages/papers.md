@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-layout: archive
+layout: single
 permalink: /papers/
 ---
 
@@ -9,7 +9,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 ### Journal Articles
 
 {: reversed="reversed"}
-1. Boyer KE, **Safran SM**, Khanna S, and Patten MV. ***In press.*** Landscape transformation and variation in invasive species abundance drive change in primary production of aquatic vegetation in the Sacramento-San Joaquin Delta. _San Francisco Estuary and Watershed Science_.
+1. Boyer KE, **Safran SM**, Khanna S, and Patten MV. 2023. Landscape transformation and variation in invasive species abundance drive change in primary production of aquatic vegetation in the Sacramento-San Joaquin Delta. _San Francisco Estuary and Watershed Science_: 20(4). [Link](https://doi.org/10.15447/sfews.2023v20iss4art2){: .btn--doi}
 
 1. Iknayan KJ, Wheeler MM, **Safran SM**, Young JS, and Spotswood EN. 2021. What makes urban parks good for California quail? Evaluating park suitability, species persistence, and the potential for reintroduction into a large urban national park. _Journal of Applied Ecology_. [Link](https://doi.org/10.1111/1365-2664.14045){: .btn--doi} 
 
@@ -22,7 +22,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
 {: reversed="reversed"}
 1.  Whipple A, **Safran SM**, Zeleke D, Wells E, Deverel S, Olds M, Cole S, Rodriguez-Flores J, Guzman A, Medellin-Azuara J, and Grenier JL. 2022. Resilient Staten Island: Landscape Scenario Analysis Pilot Application. San Francisco Estuary Institute, Richmond, CA. [PDF](https://www.sfei.org/sites/default/files/biblio_files/Resilient%20Staten%20Island_SFEI_052022_highres.pdf){: .btn--doi}{:target="_blank"}
 
-1.  <a href="(https://www.sfei.org/sites/default/files/biblio_files/Elevation%20and%20opportunity%20in%20the%20Delta_SFEI%20052022_highres.pdf"><img src="/images/Publication_screenshot_Geomorphic_zones.png" title = "Elevation and Opportunity in the Delta: Restoring the right thing in the right place" style="width: 40%; float: right;"/></a> Whipple A, Robinson A, and **Safran SM**. 2022. Elevation and Opportunity in the Delta: Restoring the right thing in the right place. San Francisco Estuary Institute, Richmond, CA. [PDF](https://www.sfei.org/sites/default/files/biblio_files/Elevation%20and%20opportunity%20in%20the%20Delta_SFEI%20052022_highres.pdf){: .btn--doi}{:target="_blank"}
+1.  <a href="https://www.sfei.org/sites/default/files/biblio_files/Elevation%20and%20opportunity%20in%20the%20Delta_SFEI%20052022_highres.pdf"><img src="/images/Publication_screenshot_Geomorphic_zones.png" title = "Elevation and Opportunity in the Delta: Restoring the right thing in the right place" style="width: 40%; float: right;"/></a> Whipple A, Robinson A, and **Safran SM**. 2022. Elevation and Opportunity in the Delta: Restoring the right thing in the right place. San Francisco Estuary Institute, Richmond, CA. [PDF](https://www.sfei.org/sites/default/files/biblio_files/Elevation%20and%20opportunity%20in%20the%20Delta_SFEI%20052022_highres.pdf){: .btn--doi}{:target="_blank"}
 
 1. **Safran SM**, Sim L, Shusterman G, Hagerty S, Desanker G, Robinson A, Iknayan K, Smith Vaughn L, Grenier JL. 2020. Delta Landscapes Scenario Planning Tool User Guide. Prepared for the Delta Stewardship Council. San Francisco Estuary Institute, Richmond, CA. [PDF](https://www.sfei.org/sites/default/files/biblio_files/DLSPT_User_Guide_v1.0.0_SFEI_5.pdf){: .btn--doi}{:target="_blank"}
 
