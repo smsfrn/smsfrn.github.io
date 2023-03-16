@@ -9,7 +9,7 @@ Occasionally I remember to record the talks I give. For a full list of all talks
 
 ---
 
-2022-06-30 | **Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds.** *American Ornithological Society & BirdsCaribbean, San Juan, Puerto Rico* [DOI]("https://doi.org/10.5281/zenodo.7059491"){: .btn--doi}  
+2022-06-30 | **Extinction next-door: Evaluating long-term changes in the occupancy of cities by birds.** *American Ornithological Society & BirdsCaribbean, San Juan, Puerto Rico* [DOI](https://doi.org/10.5281/zenodo.7059491){: .btn--doi}  
 <iframe src="https://drive.google.com/file/d/17wn1oFZ4TNNZkaj2Xmyz39pND1os8C6S/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
