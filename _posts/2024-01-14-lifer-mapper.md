@@ -17,7 +17,9 @@ Here I leverage Status & Trends data to map the distribution and number of bird 
 
 First, I used my personal eBird data download and the `rebird` package to compile a list of all bird species in the US that I haven't encountered. Next, I downloaded and stacked the occurrence layers for these species, counting the number of species with occurrence probabilities greater than 5% in each grid cell and week. The resulting layers provide weekly estimates of my potential lifers at each location/date. I used the tidyterra package to plot the individual rasters and the magick package to stitch them together, giving me an animated summary of the birds I've yet to see.
 
-![](images/posts/2024-01-14-lifer-mapper/US_Possible_lifers_annual_lores.gif)
+<figure><img src="/images/posts/2024-01-14-lifer-mapper/US_Possible_lifers_annual_lores.gif" align="center" style="width:95%"/></figure>
+
+![](/images/posts/2024-01-14-lifer-mapper/US_Possible_lifers_annual_lores.gif)
 
 Looking at my map it's clear I need to get to SE Arizona, where there are up to 34 potential lifers in a single 27x27 km grid cell (on August 9th). South Texas is not far behind. It is fun to see the Dakotas light up during the breeding season (I'm missing some prairie specialists like Baird's Sparrow and Sprague's Pipit). The Southeastern plains and pine woodlands warrant attention (Brown-headed Nuthatch, Bachman's Sparrow, Red-cockaded Woodpecker). South Florida too (Florida Scrub Jay, Snail Kite, Short-tailed Hawk, Mottled Duck, etc.).
 
