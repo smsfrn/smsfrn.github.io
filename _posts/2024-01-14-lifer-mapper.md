@@ -1,5 +1,5 @@
 ---
-title: 'Mapping Potential Lifers'
+title: 'Mapping potential life birds'
 date: 2024-01-14
 permalink: /posts/2024/01/lifer-mapper/
 tags:
@@ -7,6 +7,8 @@ tags:
   - birding
   - maps
   - R
+  - terra
+  - ebirdst
 ---
 
 [eBird Status & Trends](https://science.ebird.org/en/status-and-trends) products are a collection of datasets describing the distribution and abundance of bird populations. While these products have been utilized for scientific and conservation purposes, there is also potential to incorporate them into tools designed specifically for recreational birders. Here I leverage Status & Trends data to map the distribution and number of bird species I've yet to see--my potential "lifers." Where should I go if I'd like to see new birds? When should I go there? These are familiar questions to birders, and I wanted to approach answering them in a rigorous and visually-appealing way.
