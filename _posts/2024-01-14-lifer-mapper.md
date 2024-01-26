@@ -1,4 +1,5 @@
 ---
+layout: single
 title: 'Mapping potential life birds'
 date: 2024-01-14
 permalink: /posts/2024/01/lifer-mapper/
