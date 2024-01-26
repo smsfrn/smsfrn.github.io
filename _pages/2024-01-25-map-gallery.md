@@ -1,6 +1,7 @@
 ---
 title: 'Bird maps for people'
 date: 2024-01-25
+layout: archive
 permalink: /test/
 tags:
   - ebird
