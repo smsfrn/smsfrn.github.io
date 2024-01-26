@@ -10,8 +10,7 @@ tags:
   - R
   - terra
   - ebirdst
-  
-  gallery:
+gallery:
   - url: /images/lifer_maps/US_Animated_map_annual_light_blue_lores_sam.gif
     image_path: /images/lifer_maps/US_Animated_map_annual_light_blue_lores_sam.gif
     alt: "Sam"
