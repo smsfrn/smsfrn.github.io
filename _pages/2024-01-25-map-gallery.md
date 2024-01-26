@@ -1,7 +1,7 @@
 ---
 title: 'Bird maps for people'
 date: 2024-01-25
-permalink: /test
+permalink: /test/
 tags:
   - ebird
   - birding
