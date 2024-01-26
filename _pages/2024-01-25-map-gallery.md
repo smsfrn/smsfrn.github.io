@@ -1,15 +1,8 @@
 ---
 title: 'Bird maps for people'
-date: 2024-01-25
 layout: archive
 permalink: /test/
-tags:
-  - ebird
-  - birding
-  - maps
-  - R
-  - terra
-  - ebirdst
+author_profile: true
 gallery:
   - url: https://flic.kr/p/8a6Ven
     image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
