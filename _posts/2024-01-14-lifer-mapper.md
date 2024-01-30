@@ -30,9 +30,11 @@ gallery2:
 
 First, I used my personal eBird data download and the [`rebird`](https://docs.ropensci.org/rebird/) package to compile a list of all bird species in the US that I haven't encountered and downloaded the occurrence layers for these species with [`ebirdst`](https://ebird.github.io/ebirdst/). With [`terra`](rspatial.org/terra) I stacked the occurrence layers and counted the number of species with occurrence probabilities greater than 5% in each grid cell and week. The resulting layers provide weekly estimates of my potential lifers at each location/date. I used the [`tidyterra`](https://dieghernan.github.io/tidyterra/) package to plot the individual rasters and the [`magick`](https://docs.ropensci.org/magick/) package to stitch them together, giving me an animated summary of the birds I've yet to see.
 
-![](/images/lifer_maps/US_Animated_map_annual_light_blue_lores_sam.gif)
+![](/images/posts/2024-01-14-lifer-mapper/US_Animated_map_annual_light_blue_lores_sam_27km.gif)
 
 Looking at my map it's clear I need to get to SE Arizona, where there are up to 34 potential lifers in a single 27x27 km grid cell (on August 9th)! South Texas is not far behind. It is fun to see the Dakotas light up during the breeding season (I'm missing some prairie specialists including Baird's Sparrow and Sprague's Pipit). The Southeastern plains and pine woodlands warrant attention (Brown-headed Nuthatch, Bachman's Sparrow, Red-cockaded Woodpecker). South Florida too (Florida Scrub Jay, Snail Kite, Short-tailed Hawk, Mottled Duck, etc.).
+
+Each person's map will have their fingerprint, reflecting where they've spent time birding and what species they've seen. Here are some I've made for others.
 
 {% include gallery id="gallery2" caption ="Maps I've generated for others are compiled [here](https://smsfrn.github.io/posts/2024/01/map-gallery/). Makes for fun comparisons!"%}
 
@@ -49,3 +51,9 @@ No promises, but if you'd like a map for yourself and don't have the capabilitie
 **Update 2024-01-17:** I added support for the higher-resolution products. I think the 9x9 km map is more informative than the 27x27 km map:
 
 ![](/images/posts/2024-01-14-lifer-mapper/US_Animated_map_annual_lores_sam_9km.gif)
+
+**Update 2024-01-26:** Added a parameter to toggle the theme: light blue, light green, or dark mode! Dark mode uses the lowest value on the color ramp as the background, which I think is very evocative (with the possible downside of incorrectly implying there are zero potential lifers outside of the mapped boundary).
+
+![](/images/posts/2024-01-14-lifer-mapper/US_Animated_map_annual_light_green_lores_sam_9km.gif)
+
+![](/images/posts/2024-01-14-lifer-mapper/US_Animated_map_annual_dark_lores_sam_9km.gif)
